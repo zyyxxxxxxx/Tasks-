@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>邹雨希的网页</title>
+</head>
+<body>
+    <div style="
+    background: color: #f1f1f1; 
+    text-align: center;
+    padding: 40px;"
+    >
+    <img src="http://photo.chaoxing.com/photo_80.jpg" alt="邹雨希" width="80px" height="80px">    
+    </div>
+    <div style="
+    max: width 700px;">
+    <color:gray>
+        <p>姓名：邹雨希</p>
+        <p>学院：计算机科学学院</p>
+        <p>年级：2022级</p>
+        <p>班级：计算机类2202班</p>
+        <p>学号：202221091047</p>   
+    </color:gray>
+    </div>
+    <div style="
+        background: color #6e6b6b;
+        text-align: center;
+        padding: 40px;
+        font-size: 12px;"
+        >
+        <p>我的网站</p>
+    </div>
+</body>
+</html>l
